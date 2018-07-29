@@ -4,7 +4,6 @@
  */
 #include <Adafruit_NeoPixel.h>
 #include <CapacitiveSensor.h>
-#include "animations.h"
 
 #define buttonPin 12
 #define buttonPowerPin 13
